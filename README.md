@@ -14,3 +14,9 @@ This project analyzes the CIC IoT Dataset 2023, a large-scale and realistic IoT 
 The goal of the dataset is to support the development of security analytics and machine learning models for detecting malicious IoT network traffic. By providing real-world attack scenarios, extensive documentation, and reproducible experiments, CICIoT2023 enables researchers to evaluate and improve intrusion detection techniques for modern IoT environments.
 
 The goal of our project is to build and evaluate machine learning models trained on these real-world IoT attack scenarios. By leveraging the diversity and realism of the CICIoT2023 dataset, we aim to develop a system capable of accurately detecting and classifying malicious network traffic. Ultimately, this work contributes to strengthening IoT security by enabling early detection of threats and helping prevent similar attacks in future IoT deployments.
+
+
+Thanks I received the invitation. I do confirm I can access the documents.
+Fenerbahçe University 
+Group 1 // Please add this at the evry beginning in the project report name.
+Mennan Guder
