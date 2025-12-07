@@ -15,6 +15,10 @@ The goal of the dataset is to support the development of security analytics and 
 
 The goal of our project is to build and evaluate machine learning models trained on these real-world IoT attack scenarios. By leveraging the diversity and realism of the CICIoT2023 dataset, we aim to develop a system capable of accurately detecting and classifying malicious network traffic. Ultimately, this work contributes to strengthening IoT security by enabling early detection of threats and helping prevent similar attacks in future IoT deployments.
 
+## Dataset Access
+Due to the large size of the dataset, it cannot be included directly within this GitHub repository. To access and download the dataset, please visit the following link:
+[UNB CIC IoT 2023 Dataset](https://www.kaggle.com/datasets/madhavmalhotra/unb-cic-iot-dataset)
+
 
 Thanks I received the invitation. I do confirm I can access the documents.
 Fenerbahçe University 
