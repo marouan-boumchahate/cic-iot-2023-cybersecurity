@@ -167,6 +167,71 @@ CIC IoT Dataset 2023 - Model Training.ipynb
 
 ---
 
+## Project Task Distribution
+
+This project was carried out in two main phases, with responsibilities distributed among team members as detailed below.
+
+### Phase #1: Research & Project Foundation
+
+* **Marouan Boumchahate**
+
+  * Created the GitHub repository and managed version control
+  * Provided detailed descriptions of every feature in the dataset
+
+* **Ware Moudoumi Moustafa Konate**
+
+  * Delivered an in-depth explanation of the dataset
+  * Explained what was done during this phase and what the dataset represents
+
+* **Jasim Abdullah**
+
+  * Conducted a comprehensive literature review
+  * Searched for existing research work related to the CIC IoT 2023 dataset
+
+* **Zakaria Hussein & Salih Berke Demirci**
+
+  * Summarized and briefly explained the research papers identified by Jasim Abdullah
+
+* **Ousama Jamal Eddin**
+
+  * Compiled all findings into an IEEE-formatted report
+
+---
+
+### Phase #2: Data Processing, Analysis & Modeling
+
+* **Ousama Jamal Eddin**
+
+  * Developed the **Data Preprocessing** notebook
+  * Created a detailed report explaining all preprocessing steps and decisions
+
+* **Zakaria Hussein**
+
+  * Developed the **Exploratory Data Analysis (EDA)** notebook
+  * Wrote a report summarizing insights, patterns, and observations from the data
+
+* **Marouan Boumchahate**
+
+  * Built and trained machine learning models
+  * Evaluated model performance
+  * Wrote a report justifying the **data mining technique selection**
+  * Authored the Phase #2 report following the IEEE format
+
+* **Ware Moudoumi Moustafa Konate**
+
+  * Reviewed and analyzed the trained models
+  * Produced a detailed comparative report explaining the methods and results
+
+* **Jasim Abdullah**
+
+  * Wrote the **Introduction** and **Conclusion** sections of the final report
+
+* **Salih Berke Demirci**
+
+  * Did not contribute during this phase
+
+---
+
 Thanks I received the invitation. I do confirm I can access the documents.
 Fenerbahçe University 
 Group 1 // Please add this at the evry beginning in the project report name.
